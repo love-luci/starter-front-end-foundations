@@ -49,3 +49,10 @@ h3 {
     flex-direction: row;
   }
 }
+
+/* makes images responsive as well */
+img {
+  width: 100%;
+}
+
+/* make sure all images used have the same ratios
